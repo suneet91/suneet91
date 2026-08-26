@@ -26,9 +26,11 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
 **[hybrid-rag-engine](https://github.com/suneet91/hybrid-rag-engine)** — A from-scratch RAG platform combining pgvector cosine similarity search, Postgres full-text keyword search, Reciprocal Rank Fusion, cross-encoder reranking, and citation-grounded, streaming LLM generation. FastAPI + async SQLAlchemy + Docker.
+
+**[agentic-fact-verifier](https://github.com/suneet91/agentic-fact-verifier)** — A LangGraph multi-agent system that researches a claim across independent web sources via a ReAct search agent, cross-checks results with fuzzy entity matching, and computes a statistical cross-source trust score — with reusable tools also exposed over an MCP server.
 
 ---
 
