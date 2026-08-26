@@ -32,6 +32,8 @@
 
 **[agentic-fact-verifier](https://github.com/suneet91/agentic-fact-verifier)** — A LangGraph multi-agent system that researches a claim across independent web sources via a ReAct search agent, cross-checks results with fuzzy entity matching, and computes a statistical cross-source trust score — with reusable tools also exposed over an MCP server.
 
+**[nl2sql-guardrails](https://github.com/suneet91/nl2sql-guardrails)** — A natural-language-to-SQL platform grounded in retrieved schema/example context, validated through multi-layer SQL safety checks (allow-list, anti-stacking, injection heuristics, LLM arbiter) before read-only execution, with caching and per-datasource concurrency control.
+
 ---
 
 ### 📫 Let's connect
