@@ -5,7 +5,7 @@
 - 🔭 13+ years across enterprise data platforms & GenAI systems — Healthcare, BFSI, Supply Chain, Telecom
 - 🧠 Focused on: Retrieval-Augmented Generation, hybrid search & reranking, agentic multi-agent systems (LangGraph, MCP), multimodal document intelligence, NL-to-SQL
 - 🏗️ Background architecting large-scale data pipelines: Azure (Databricks, Data Factory, Synapse, ADLS), Apache Spark/Scala, Kafka
-- 💬 Ask me about: RAG architecture, hybrid retrieval, LLM evaluation, Azure data platforms
+- 💬 Ask me about: RAG architecture, hybrid retrieval & reranking, agentic multi-agent systems, MCP, multimodal document intelligence, NL-to-SQL safety, Azure data platforms
 
 ---
 
