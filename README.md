@@ -29,11 +29,11 @@ Data & AI Engineer with 13+ years across enterprise data platforms and productio
 
 ## Selected work
 
-- **[hybrid-rag-engine](https://github.com/suneet91/hybrid-rag-engine)** — Hybrid retrieval RAG: pgvector cosine search + full-text search + Reciprocal Rank Fusion + cross-encoder reranking + citation-grounded streaming generation
-- **[agentic-fact-verifier](https://github.com/suneet91/agentic-fact-verifier)** — LangGraph multi-agent fact verification: ReAct search agent, fuzzy entity matching, statistical trust scoring, MCP tool server
-- **[nl2sql-guardrails](https://github.com/suneet91/nl2sql-guardrails)** — RAG-grounded NL-to-SQL with multi-layer SQL safety validation, caching, and per-datasource concurrency control
-- **[multimodal-doc-auditor](https://github.com/suneet91/multimodal-doc-auditor)** — Parallel, fault-tolerant document compliance auditing with GPT-4o Vision + OCR cross-verification
-- **[multi-agent-support-router](https://github.com/suneet91/multi-agent-support-router)** — LangGraph controller/specialist chatbot with LLM-judged escalation and SSE reasoning stream
+- **[hybrid-rag-engine](https://github.com/suneet91/hybrid-rag-engine)** - a hybrid retrieval RAG platform: pgvector cosine search + full-text search, combined with Reciprocal Rank Fusion, cross-encoder reranking, and citation-grounded streaming generation
+- **[agentic-fact-verifier](https://github.com/suneet91/agentic-fact-verifier)** - a LangGraph multi-agent system that fact-checks claims using a ReAct search agent, fuzzy entity matching, statistical trust scoring, and an MCP tool server
+- **[nl2sql-guardrails](https://github.com/suneet91/nl2sql-guardrails)** - natural-language-to-SQL, grounded with RAG and locked down with multi-layer SQL safety validation, caching, and per-datasource concurrency control
+- **[multimodal-doc-auditor](https://github.com/suneet91/multimodal-doc-auditor)** - parallel, fault-tolerant document compliance auditing using GPT-4o Vision plus OCR cross-verification
+- **[multi-agent-support-router](https://github.com/suneet91/multi-agent-support-router)** - a LangGraph controller/specialist chatbot that escalates incomplete answers and streams its reasoning live over SSE
 
 ---
 
