@@ -5,8 +5,6 @@
 - 🔭 13+ years across enterprise data platforms & GenAI systems — Healthcare, BFSI, Supply Chain, Telecom
 - 🧠 Focused on: Retrieval-Augmented Generation, hybrid search & reranking, agentic multi-agent systems (LangGraph, MCP), multimodal document intelligence, NL-to-SQL
 - 🏗️ Background architecting large-scale data pipelines: Azure (Databricks, Data Factory, Synapse, ADLS), Apache Spark/Scala, Kafka
-- 📚 Currently pursuing: Azure Solutions Architect Expert (AZ-305) · MIT IDSS Data Science & Machine Learning
-- 📍 Toronto, ON, Canada — Canadian Permanent Resident, available immediately
 - 💬 Ask me about: RAG architecture, hybrid retrieval, LLM evaluation, Azure data platforms
 
 ---
