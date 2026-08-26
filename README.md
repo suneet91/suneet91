@@ -1,11 +1,12 @@
-### Hi, I'm Suneet 👋
+![Suneet Pal Kaur • Data & AI Engineer • Building production RAG and agentic GenAI systems.](assets/header.svg)
 
-**Data & AI Engineer** building production RAG and agentic GenAI systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suneetpalkaur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suneetpalkaur) [![Email](https://img.shields.io/badge/Email-suneet91%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:suneet91@gmail.com)
 
-- 🔭 13+ years across enterprise data platforms & GenAI systems — Healthcare, BFSI, Supply Chain, Telecom
-- 🧠 Focused on: Retrieval-Augmented Generation, hybrid search & reranking, agentic multi-agent systems (LangGraph, MCP), multimodal document intelligence, NL-to-SQL
-- 🏗️ Background architecting large-scale data pipelines: Azure (Databricks, Data Factory, Synapse, ADLS), Apache Spark/Scala, Kafka
-- 💬 Ask me about: RAG architecture, hybrid retrieval & reranking, agentic multi-agent systems, MCP, multimodal document intelligence, NL-to-SQL safety, Azure data platforms
+## About
+
+Data & AI Engineer with 13+ years across enterprise data platforms and production GenAI systems — Healthcare, BFSI, Supply Chain, Telecom. I build production RAG platforms on Azure OpenAI, agentic multi-agent systems (LangGraph, MCP), multimodal document intelligence, and NL-to-SQL, alongside large-scale data pipelines on Azure (Databricks, Data Factory, Synapse, ADLS), Spark/Scala, and Kafka. Based in Toronto, Canada.
+
+💬 Ask me about: RAG architecture, hybrid retrieval & reranking, agentic multi-agent systems, MCP, multimodal document intelligence, NL-to-SQL safety, Azure data platforms
 
 ---
 
@@ -26,17 +27,22 @@
 
 ---
 
-### 📌 Featured Projects
+## Selected work
 
-**[hybrid-rag-engine](https://github.com/suneet91/hybrid-rag-engine)** — A from-scratch RAG platform combining pgvector cosine similarity search, Postgres full-text keyword search, Reciprocal Rank Fusion, cross-encoder reranking, and citation-grounded, streaming LLM generation. FastAPI + async SQLAlchemy + Docker.
+- **[hybrid-rag-engine](https://github.com/suneet91/hybrid-rag-engine)** — Hybrid retrieval RAG: pgvector cosine search + full-text search + Reciprocal Rank Fusion + cross-encoder reranking + citation-grounded streaming generation
+- **[agentic-fact-verifier](https://github.com/suneet91/agentic-fact-verifier)** — LangGraph multi-agent fact verification: ReAct search agent, fuzzy entity matching, statistical trust scoring, MCP tool server
+- **[nl2sql-guardrails](https://github.com/suneet91/nl2sql-guardrails)** — RAG-grounded NL-to-SQL with multi-layer SQL safety validation, caching, and per-datasource concurrency control
+- **[multimodal-doc-auditor](https://github.com/suneet91/multimodal-doc-auditor)** — Parallel, fault-tolerant document compliance auditing with GPT-4o Vision + OCR cross-verification
+- **[multi-agent-support-router](https://github.com/suneet91/multi-agent-support-router)** — LangGraph controller/specialist chatbot with LLM-judged escalation and SSE reasoning stream
 
-**[agentic-fact-verifier](https://github.com/suneet91/agentic-fact-verifier)** — A LangGraph multi-agent system that researches a claim across independent web sources via a ReAct search agent, cross-checks results with fuzzy entity matching, and computes a statistical cross-source trust score — with reusable tools also exposed over an MCP server.
+---
 
-**[nl2sql-guardrails](https://github.com/suneet91/nl2sql-guardrails)** — A natural-language-to-SQL platform grounded in retrieved schema/example context, validated through multi-layer SQL safety checks (allow-list, anti-stacking, injection heuristics, LLM arbiter) before read-only execution, with caching and per-datasource concurrency control.
+## Education
 
-**[multimodal-doc-auditor](https://github.com/suneet91/multimodal-doc-auditor)** — A parallel, fault-tolerant document compliance auditor combining GPT-4o Vision with deterministic PDF parsing/OCR — per-check timeouts and incremental result persistence mean a slow or failing check never blocks the rest of the audit.
-
-**[multi-agent-support-router](https://github.com/suneet91/multi-agent-support-router)** — A LangGraph controller/specialist support chatbot with an LLM-judged completeness check, automatic escalation to a different specialist on incomplete answers, best-response fallback, and SSE streaming of the live routing/reasoning trace.
+- **MIT IDSS Data Science & Machine Learning Program — MIT** *(In Progress, 2026)*
+- **Executive PG Programme in Machine Learning & Artificial Intelligence — IIIT Bangalore** *(2021–2022)*
+- **Machine Learning Engineer Nanodegree — Udacity** *(2020)*
+- **B.Tech. Computer Science — Mody University of Science & Technology** *(2008–2012)*
 
 ---
 
