@@ -4,7 +4,7 @@
 
 ## About
 
-Data & AI Engineer with 13+ years across enterprise data platforms and production GenAI systems — Healthcare, BFSI, Supply Chain, Telecom. I build production RAG platforms on Azure OpenAI, agentic multi-agent systems (LangGraph, MCP), multimodal document intelligence, and NL-to-SQL, alongside large-scale data pipelines on Azure (Databricks, Data Factory, Synapse, ADLS), Spark/Scala, and Kafka. 
+Data & AI Engineer with 13+ years across enterprise data platforms and production GenAI systems - Healthcare, BFSI, Supply Chain, Telecom. I build production RAG platforms on Azure OpenAI, agentic multi-agent systems (LangGraph, MCP), multimodal document intelligence, and NL-to-SQL, alongside large-scale data pipelines on Azure (Databricks, Data Factory, Synapse, ADLS), Spark/Scala, and Kafka.
 
 💬 Ask me about: RAG architecture, hybrid retrieval & reranking, agentic multi-agent systems, MCP, multimodal document intelligence, NL-to-SQL safety, Azure data platforms
 
@@ -39,10 +39,10 @@ Data & AI Engineer with 13+ years across enterprise data platforms and productio
 
 ## Education
 
-- **MIT IDSS Data Science & Machine Learning Program — MIT** *(In Progress, 2026)*
-- **Executive PG Programme in Machine Learning & Artificial Intelligence — IIIT Bangalore** *(2021–2022)*
-- **Machine Learning Engineer Nanodegree — Udacity** *(2020)*
-- **B.Tech. Computer Science — Mody University of Science & Technology** *(2008–2012)*
+- **MIT IDSS Data Science & Machine Learning Program - MIT** *(In Progress, 2026)*
+- **Executive PG Programme in Machine Learning & Artificial Intelligence - IIIT Bangalore** *(2021-2022)*
+- **Machine Learning Engineer Nanodegree - Udacity** *(2020)*
+- **B.Tech. Computer Science - Mody University of Science & Technology** *(2008-2012)*
 
 ---
 
