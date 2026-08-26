@@ -34,6 +34,10 @@
 
 **[nl2sql-guardrails](https://github.com/suneet91/nl2sql-guardrails)** — A natural-language-to-SQL platform grounded in retrieved schema/example context, validated through multi-layer SQL safety checks (allow-list, anti-stacking, injection heuristics, LLM arbiter) before read-only execution, with caching and per-datasource concurrency control.
 
+**[multimodal-doc-auditor](https://github.com/suneet91/multimodal-doc-auditor)** — A parallel, fault-tolerant document compliance auditor combining GPT-4o Vision with deterministic PDF parsing/OCR — per-check timeouts and incremental result persistence mean a slow or failing check never blocks the rest of the audit.
+
+**[multi-agent-support-router](https://github.com/suneet91/multi-agent-support-router)** — A LangGraph controller/specialist support chatbot with an LLM-judged completeness check, automatic escalation to a different specialist on incomplete answers, best-response fallback, and SSE streaming of the live routing/reasoning trace.
+
 ---
 
 ### 📫 Let's connect
